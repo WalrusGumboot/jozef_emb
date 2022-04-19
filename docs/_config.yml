@@ -36,11 +36,9 @@ header_pages:
 
 footer: 'een site gemaakt met jekyll door Simeon Duwel.'
 
-
 remote_theme: b2a3e8/jekyll-theme-console
 
 # Build settings
-theme: jekyll-theme-console
 plugins:
   - jekyll-feed
 
