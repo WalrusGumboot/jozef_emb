@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Dit is de essentiële blog voor iedereen die de waarheid te weten wil komen
   over wat er daadwerkelijk gebeurd is met Jozef Kalens, een onschuldige man
   die door het afschuwelijke gedrag van het European Milk Board vermoord is.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/jozef_emb/" # the subpath of your site, e.g. /blog
+url: "https://walrusgumboot.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: simeondermaats
 github_username:  WalrusGumboot
 
